@@ -1,2 +1,2 @@
 # PDFToText
-PDF to Text
+Answering queries by extracting data from PDF
